@@ -1,0 +1,32 @@
+body {background-color:black;
+    font-family:arial;
+    color: white;
+}
+
+h1{ color:grey; 
+    font-family: Verdana;
+}
+
+.maindiv{
+    background-color: white;
+    color:  black;
+    width:330px;
+    padding:20px;
+    border-radius:25px;
+    margin: 0 auto;
+}
+
+.secdiv{
+    margin-left: 20px;
+}
+
+label{
+    display:inline-block;
+    width:90px; 
+    text-align:left;
+    
+}
+
+
+
+
